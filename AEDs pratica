@@ -1,0 +1,83 @@
+AEDs pratica
+prof:bressan
+aulas: quinta e sexta
+horario: 8:00h - 10:00h
+
+Esta materia se assemelha a AEDs teorica, logo deixarei apenas os projetos feitos
+
+Atividade 01
+
+Desenvolva um algoritmo que avalia a solicitação de um empréstimo bancário, classificando o solicitante em uma das seguintes categorias
+
+contendo:
+Empréstimo Negado
+Empréstimo de Baixo Valor
+Empréstimo de Médio Valor
+Empréstimo de Alto Valor 
+
+com o programa recebendo 
+
+Idade do solicitante
+Renda mensal
+Histórico de crédito (nome negativado “1” ou não “0”)
+Número de parcelas em atraso atualmente
+Número de parcelas em atraso nos últimos 2 anos
+
+
+
+Atividade 02
+
+gerar a descrição de uma cena gráfica e calcular sua área e volume
+
+contendo:
+Area do circulo
+Area do quadrado
+Area do retangulo
+Area de todos os tipos de triangulo
+
+recebendo
+
+Figura escolhida
+Medidas da figura
+
+
+Atividade 03
+
+criar um projeto que insira valores inteiros num vetor de 100 posições
+
+contendo:
+
+contar a quantidade de ocorrências que um valor aparece
+contar a quantidade de ocorrências de valores de um intervalo
+buscar pela primeira ocorrência de um valor e informar a posição
+excluir a primeira ocorrência de um valor informado sem não deixar buracos
+inserir um valor informado numa posição também informada, quando o vetor não estiver cheio
+retirar todos os valores repetidos.
+
+
+Atividade 04
+
+Faça métodos de ordenação implementados com ponteiros
+
+contendo:
+
+apenas funções em um arquivo .cpp
+e suas chamdas no arquivo .h
+
+
+
+Atividade 05
+
+implementar uma biblioteca com a função de realizar operações em matrizes
+
+contendo:
+
+multiplicação de todos os valores da matriz por um valor
+encontrar a matriz transposta
+inverter as colunas na horizontal (primeira -> última, segunda -> penúltima, ...
+inverter as linhas na vertical (primeira -> última, segunda -> penúltima, ...
+
+
+
+
+
